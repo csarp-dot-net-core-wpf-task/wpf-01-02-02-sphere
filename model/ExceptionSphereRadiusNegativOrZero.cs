@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Runtime.Serialization;
 
-namespace CircleProject.model
+namespace oop.model
 {
     [Serializable]
-    internal class ExceptionSphereRadiusNegativOrZero : Exception
+    public class ExceptionSphereRadiusNegativOrZero : Exception
     {
         public ExceptionSphereRadiusNegativOrZero()
         {
