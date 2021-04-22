@@ -17,7 +17,7 @@ namespace oop.model
         /// <summary>
         /// Konstruktor
         /// </summary>
-        /// <param name="radius">A kör sugara</param>
+        /// <param name="radius">A gömb sugara</param>
         public Sphere(double radius)
         {
             if (radius < 0)
