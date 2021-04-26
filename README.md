@@ -1,5 +1,5 @@
-# wpf-01-02-02-volume
-Adatbevitel gomb segítségével.
+# wpf-01-02-02-sphere
+## Adatbevitel gomb.
 Készítsen WPF alkalmazást a gömb felszínének és térfogatának meghatározására.
 Az alkalmazásba a következő funkciók működjenek:
  - Kilépés a programból
