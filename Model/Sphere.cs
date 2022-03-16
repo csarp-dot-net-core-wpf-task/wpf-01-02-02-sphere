@@ -39,7 +39,7 @@ namespace oop.Model
         }
 
         /// <summary>
-        /// A gömt felszíne 
+        /// A gömb felszíne 
         /// </summary>
         public double Surface
         {
@@ -47,7 +47,7 @@ namespace oop.Model
         }
 
         /// <summary>
-        /// A kör térfogata
+        /// A gömb térfogata
         /// </summary>
         public double Volume
         {
